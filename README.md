@@ -2,6 +2,8 @@
 Fraud Detection model based on anonymized credit card transactions
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+
+
 ![1646468365430](https://github.com/user-attachments/assets/d7483e55-d794-4cc0-a936-2c8f304f5b07)
 
 
